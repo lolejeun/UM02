@@ -3,7 +3,11 @@
 
 **Creative Routine**
 
-Re visulaization with processing
+Re visualization with processing of creative of famous people 
+
+  1. artist-creative-routine : histogramm
+  
+  2. plt_creative_routine:  parallel coordinates plot
 
 **flyingCircle**
 
