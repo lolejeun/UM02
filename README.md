@@ -1,6 +1,20 @@
 # UM02
 ## UTSEUS course - Data Visualization 
 
+**Final project map: Bar**
+
+Map visualization 
+
+
+**Final project interactive: Street**
+
+**Final project free:**
+
+
+**Mobike**
+
+Open csv and interact with it 
+
 **Creative Routine**
 
 Re visualization with processing of creative of famous people 
@@ -12,3 +26,8 @@ Re visualization with processing of creative of famous people
 **flyingCircle**
 
 Visualization with processing
+
+**Plus**
+  1. Images 
+  2. Visualization
+  3. UM02 courses 
