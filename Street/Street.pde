@@ -62,7 +62,7 @@ void draw(){
   textAlign(CENTER);
   textFont(Straight);
   textSize(32);
-  text("ADJECTIFS COURANTS DANS LES RUES FRANCAISES", 500, vMargin+ 30);
+  text("BIENVENUE EN ODONYME", 500, vMargin+ 30);
   textFont(Smooth);
   textSize(22);
   text("~ Tradition et ancienneté avant la beauté ~", 500, vMargin + 85);
